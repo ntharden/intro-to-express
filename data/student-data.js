@@ -1,7 +1,7 @@
 const students = [
-  first: 'Gurleen', last: 'Mcguire', _id: 125223
-  first: 'Kyron', last: 'Phelps', _id: 127904
-  first: 'Elle-May', last: 'Irwin', _id: 139608
+  {first: 'Gurleen', last: 'Mcguire', _id: 125223},
+  {first: 'Kyron', last: 'Phelps', _id: 127904},
+  {first: 'Elle-May', last: 'Irwin', _id: 139608},
 ]
 
 export {
